@@ -1,2 +1,0 @@
-# PhotoGrid
-Created with CodeSandbox
